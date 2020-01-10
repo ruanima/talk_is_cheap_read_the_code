@@ -2,3 +2,7 @@
 	path = redis
 	url = https://github.com/ruanima/redis.git
 	branch = reading-4.0
+[submodule "flask"]
+	path = flask
+	url = git@github.com:ruanima/flask.git
+	branch = reading-1.1.x
