@@ -6,3 +6,6 @@
 	path = flask
 	url = git@github.com:ruanima/flask.git
 	branch = reading-1.1.x
+[submodule "redis-3.0-annotated"]
+	path = redis-3.0-annotated
+	url = git@github.com:ruanima/redis-3.0-annotated.git
