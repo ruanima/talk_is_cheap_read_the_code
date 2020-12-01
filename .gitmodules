@@ -9,3 +9,6 @@
 [submodule "redis-3.0-annotated"]
 	path = redis-3.0-annotated
 	url = git@github.com:ruanima/redis-3.0-annotated.git
+[submodule "gunicorn"]
+	path = gunicorn
+	url = https://github.com/ruanima/gunicorn.git
