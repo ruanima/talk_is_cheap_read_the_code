@@ -12,3 +12,6 @@
 [submodule "gunicorn"]
 	path = gunicorn
 	url = https://github.com/ruanima/gunicorn.git
+[submodule "python-redis-lock"]
+	path = python-redis-lock
+	url = git@github.com:ruanima/python-redis-lock.git
