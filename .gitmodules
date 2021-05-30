@@ -15,3 +15,6 @@
 [submodule "python-redis-lock"]
 	path = python-redis-lock
 	url = git@github.com:ruanima/python-redis-lock.git
+[submodule "PyrateLimiter"]
+	path = PyrateLimiter
+	url = https://github.com/vutran1710/PyrateLimiter.git
