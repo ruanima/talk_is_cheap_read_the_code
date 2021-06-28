@@ -18,3 +18,6 @@
 [submodule "PyrateLimiter"]
 	path = PyrateLimiter
 	url = https://github.com/vutran1710/PyrateLimiter.git
+[submodule "althttpd-mirror"]
+	path = althttpd-mirror
+	url = git@github.com:ruanima/althttpd-mirror.git
