@@ -21,3 +21,6 @@
 [submodule "althttpd-mirror"]
 	path = althttpd-mirror
 	url = git@github.com:ruanima/althttpd-mirror.git
+[submodule "concurrent-log-handler"]
+	path = concurrent-log-handler
+	url = git@github.com:ruanima/concurrent-log-handler.git
