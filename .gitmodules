@@ -24,3 +24,6 @@
 [submodule "concurrent-log-handler"]
 	path = concurrent-log-handler
 	url = git@github.com:ruanima/concurrent-log-handler.git
+[submodule "echo"]
+	path = echo
+	url = git@github.com:ruanima/echo.git
