@@ -1,29 +1,29 @@
 [submodule "redis"]
 	path = redis
-	url = https://github.com/ruanima/redis.git
+	url = https://github.com/ruanimal/redis.git
 	branch = reading-4.0
 [submodule "flask"]
 	path = flask
-	url = git@github.com:ruanima/flask.git
+	url = git@github.com:ruanimal/flask.git
 	branch = reading-1.1.x
 [submodule "redis-3.0-annotated"]
 	path = redis-3.0-annotated
-	url = git@github.com:ruanima/redis-3.0-annotated.git
+	url = git@github.com:ruanimal/redis-3.0-annotated.git
 [submodule "gunicorn"]
 	path = gunicorn
-	url = https://github.com/ruanima/gunicorn.git
+	url = https://github.com/ruanimal/gunicorn.git
 [submodule "python-redis-lock"]
 	path = python-redis-lock
-	url = git@github.com:ruanima/python-redis-lock.git
+	url = git@github.com:ruanimal/python-redis-lock.git
 [submodule "PyrateLimiter"]
 	path = PyrateLimiter
 	url = https://github.com/vutran1710/PyrateLimiter.git
 [submodule "althttpd-mirror"]
 	path = althttpd-mirror
-	url = git@github.com:ruanima/althttpd-mirror.git
+	url = git@github.com:ruanimal/althttpd-mirror.git
 [submodule "concurrent-log-handler"]
 	path = concurrent-log-handler
-	url = git@github.com:ruanima/concurrent-log-handler.git
+	url = git@github.com:ruanimal/concurrent-log-handler.git
 [submodule "echo"]
 	path = echo
-	url = git@github.com:ruanima/echo.git
+	url = git@github.com:ruanimal/echo.git
